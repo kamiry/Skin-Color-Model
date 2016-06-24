@@ -13,6 +13,7 @@ labeled parts: http://vis-www.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt
 Put the plot_gaussian_ellipsoid.m and the decompressed images to the same folder as the downloaded files.
 ## Training
 modify the file path if necessary, this example only takes one image for training
+modify the number of iteration if necessary.
 ```
 Run skin_train.m
 ```
@@ -20,7 +21,7 @@ Output the skin distribution in YCbCr
 <br>
 ![Skin distribution in YCbCr](skin_dist.jpg)
 <br>
-The 3-D Gaussian parameters (mean and covariance matrix) is stored in <b>skin.mat</b>
+The 3-D Gaussian parameters (mean and covariance matrix) are stored in <b>skin.mat</b>
 
 ## Testing
 ```
