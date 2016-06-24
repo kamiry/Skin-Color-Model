@@ -21,3 +21,8 @@ Output the skin distribution in YCbCr
 ![Skin distribution in YCbCr](skin_dist.jpg)
 <br>
 The 3-D Gaussian parameters (mean and covariance matrix) is stored in <b>skin.mat</b>
+
+## Testing
+```
+Run skin_test.m
+```
