@@ -12,7 +12,7 @@ labeled parts: http://vis-www.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt
 # Execution
 Put the plot_gaussian_ellipsoid.m and the decompressed images to the same folder as the downloaded files.
 ## Training
-#### modify the file path if necessary, this example only takes one image for training
+modify the file path if necessary, this example only takes one image for training
 ```
 Run skin_train.m
 ```
