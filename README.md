@@ -16,3 +16,4 @@ modify the file path if necessary, this example only takes one image for trainin
 ```
 Run skin_train.m
 ```
+![Skin distribution in YCbCr](skin_dist.jpg)
