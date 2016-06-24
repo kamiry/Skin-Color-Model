@@ -17,5 +17,7 @@ modify the file path if necessary, this example only takes one image for trainin
 Run skin_train.m
 ```
 Output the skin distribution in YCbCr
+<br>
 ![Skin distribution in YCbCr](skin_dist.jpg)
+<br>
 The 3-D Gaussian parameters (mean and covariance matrix) is stored in skin.mat
