@@ -6,7 +6,7 @@ A simple Matlab implementation of paper: S.L. Phung, A. Bouzerdoum
 1. Plot Gaussian ellipsoid: http://www.mathworks.com/matlabcentral/fileexchange/16543-plot-gaussian-ellipsoid
 <br>
 2. Dataset: <br>
-lfw images: http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz 
+lfw images: http://vis-www.cs.umass.edu/lfw/lfw-funneled.tgz <br>
 labeled parts: http://vis-www.cs.umass.edu/lfw/part_labels/parts_lfw_funneled_gt_images.tgz
 
 
